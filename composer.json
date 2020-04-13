@@ -1,0 +1,48 @@
+{
+    "name": "isaacdagel/blade-bootstrap-icons",
+    "description": "A package to easily integrate Bootstrap SVG icons into your Laravel project.",
+    "keywords": [
+        "isaacdagel",
+        "blade-bootstrap-icons"
+    ],
+    "homepage": "https://github.com/isaacdagel/blade-bootstrap-icons",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Isaac Dagel",
+            "email": "isaac@isaacdagel.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5",
+        "illuminate/support": "^7.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.0",
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IsaacDagel\\BladeBootstrapIcons\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "IsaacDagel\\BladeBootstrapIcons\\Tests\\": "tests"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IsaacDagel\\BladeBootstrapIcons\\BladeBootstrapIconsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
