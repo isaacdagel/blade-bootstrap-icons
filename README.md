@@ -61,8 +61,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 ## Credits
 
-Icons created by the Twitter Bootstrap team. [Bootstrap Icons](https://github.com/twbs/icons)
+[Bootstrap Icons](https://github.com/twbs/icons) are created and maintained by the Bootstrap team.
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+This package is released under the MIT License. Please see [License File](LICENSE.md) for more information.
