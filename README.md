@@ -9,7 +9,7 @@ A package to easily integrate Bootstrap SVG icons into your Laravel project.
 
 ## Requirements
 
-Laravel version 7 is required for this package to work.
+This package is designed to work with Laravel 7.0 or higher.
 
 ## Installation
 
