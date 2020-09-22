@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/packagist/v/isaacdagel/blade-bootstrap-icons)](https://packagist.org/packages/isaacdagel/blade-bootstrap-icons)
 [![Total Downloads](https://img.shields.io/packagist/dt/isaacdagel/blade-bootstrap-icons)](https://packagist.org/packages/isaacdagel/blade-bootstrap-icons)
-[![Required Laravel Version](https://img.shields.io/badge/Laravel-%5E7.0.0-red)](https://packagist.org/packages/isaacdagel/blade-bootstrap-icons)
+[![Required Laravel Version](https://img.shields.io/badge/Laravel-%3E%3D7.0-red)](https://packagist.org/packages/isaacdagel/blade-bootstrap-icons)
 [![License](https://img.shields.io/packagist/l/isaacdagel/blade-bootstrap-icons)](https://packagist.org/packages/isaacdagel/blade-bootstrap-icons)
 
 A package to easily integrate Bootstrap SVG icons into your Laravel project.
